@@ -1,0 +1,322 @@
+﻿N°Action;Chantier;Actions;Responsable;Version de structure;Délai;Priorité;Date reprogrammée;Finalisé;Suivi;Date de début;Avancement
+1;Carrosserie;Validation des surfaces de style;Sophie;V1;12/08/2026;2;02/09/2026;;"04/06/26 : Relancer Hugo, décalage d'une semaine annoncé.
+15/06/26 : Attente retour de Léa, résultats transmis.
+23/06/26 : Voir avec Inès, problème identifié, solution à définir.
+08/07/26 : Point fait avec Léa, résultats transmis.";31/05/2026;95%
+2;Carrosserie;Faisabilité emboutissage des portes;Emma/Maxime;;01/09/2026;1;;oui;"08/07/26 : Voir avec Hugo, décalage d'une semaine annoncé.
+17/07/26 : Échange avec Antoine, plan mis à jour.
+02/08/26 : Validé par Léa, commande passée.
+01/09/26 : Terminé, validé.";29/06/2026;100%
+3;Carrosserie;Plan de jeux et affleurements;Claire;;09/10/2026;3;23/11/2026;;20/07/26 : Validé par Antoine, pièces commandées.;12/07/2026;95%
+4;Carrosserie;Prototype de capot;Nicolas/Antoine;V2;09/11/2026;2;;oui;"13/10/26 : Point fait avec Camille, résultats transmis.
+29/10/26 : Voir avec Hugo, commande passée.
+09/11/26 : Terminé, validé.";11/10/2026;100%
+5;Carrosserie;Revue d'étanchéité des ouvrants;Maxime;V2 / série spéciale;03/09/2026;2;;oui;"29/06/26 : Échange avec Léa, résultats transmis.
+09/07/26 : Relancer Hugo, réunion programmée.
+22/07/26 : Point fait avec Julien, essai réalisé, résultats corrects.
+12/08/26 : Validé par Sophie, résultats transmis.
+26/08/26 : Validé par Thomas, prototype en cours.
+09/09/26 : Voir avec Maxime, pièces réceptionnées.
+03/09/26 : Terminé, validé.";20/06/2026;100%
+6;Carrosserie;Choix des fixations de pare-chocs;Sophie;;12/03/2027;2;;oui;20/11/26 : Terminé, validé.;05/12/2026;100%
+7;Carrosserie;Simulation choc piéton;Camille;V2;23/11/2026;3;;;"07/10/26 : Validé par Léa, résultats transmis.
+22/10/26 : Échange avec Léa, pièces commandées.
+31/10/26 : Point fait avec Antoine, essai réalisé, résultats corrects.
+19/11/26 : Point fait avec Camille, rapport en cours de rédaction.";02/10/2026;95%
+8;Carrosserie;Plan de mastics;Antoine;V2;19/08/2026;3;;oui;"05/07/26 : Voir avec Julien, commande passée.
+19/08/26 : Terminé, validé.";27/06/2026;100%
+9;Carrosserie;Gel du design carrosserie;Julien;;18/11/2026;2;;oui;"Action prioritaire pour le client.
+29/09/26 : Attente retour de Emma, pièces réceptionnées.
+09/10/26 : Voir avec Camille, prototype en cours.
+15/10/26 : Envoyé à Nicolas, réunion programmée.
+31/10/26 : Relancer Sophie, essai réalisé, résultats corrects.
+09/11/26 : Relancer Nicolas, pièces commandées.
+18/11/26 : Terminé, validé.";25/09/2026;100%
+10;Châssis;Dimensionnement des suspensions;Sophie/Thomas;V2;28/10/2026;2;;oui;"05/10/26 : Validé par Antoine, commande passée.
+28/10/26 : Terminé, validé.";26/09/2026;100%
+11;Châssis;Essais d'endurance du berceau;Camille;V2;25/09/2026;1;;oui;"27/06/26 : Point fait avec Antoine, pièces commandées.
+17/07/26 : Échange avec Camille, prototype en cours.
+04/08/26 : Voir avec Maxime, décalage d'une semaine annoncé.
+19/08/26 : Validé par Camille, réunion programmée.
+31/08/26 : Validé par Inès, prototype en cours.
+25/09/26 : Terminé, validé.";21/06/2026;100%
+12;Châssis;Choix des pneumatiques;Camille;;10/03/2027;1;;;;09/12/2026;0%
+13;Châssis;Mise au point du freinage;Hugo/Maxime;;02/02/2027;2;;;02/11/26 : Échange avec Sophie, essai réalisé, résultats corrects.;30/10/2026;30%
+14;Châssis;Calcul de rigidité en torsion;Maxime;V2;31/01/2027;2;;;"24/10/26 : Point fait avec Julien, problème identifié, solution à définir.
+07/11/26 : Validé par Nicolas, rapport en cours de rédaction.
+14/11/26 : Attente retour de Thomas, prototype en cours.";15/10/2026;45%
+15;Châssis;Validation de la direction;Hugo/Emma;V2;17/10/2026;2;;;"Action prioritaire pour le client.
+05/08/26 : Point fait avec Camille, devis reçu.
+14/08/26 : Validé par Nicolas, devis reçu.
+26/08/26 : Validé par Nicolas, résultats transmis.
+01/09/26 : Point fait avec Claire, prototype en cours.
+16/09/26 : Envoyé à Inès, essai réalisé, résultats corrects.
+04/10/26 : Échange avec Léa, essai réalisé, résultats corrects.";02/08/2026;95%
+16;Châssis;Essais sur banc de suspension;Inès/Thomas;;14/06/2026;2;;oui;"18/05/26 : Envoyé à Maxime, plan mis à jour.
+06/06/26 : Relancer Camille, devis reçu.
+15/06/26 : Envoyé à Claire, prototype en cours.
+14/06/26 : Terminé, validé.";15/05/2026;100%
+17;Châssis;Plan de liaison au sol;Nicolas;V2 / série spéciale;28/10/2026;3;;oui;"12/10/26 : Point fait avec Thomas, rapport en cours de rédaction.
+23/10/26 : Échange avec Hugo, réunion programmée.
+28/10/26 : Terminé, validé.";02/10/2026;100%
+18;Châssis;Réglage du comportement routier;Antoine;V2 / série spéciale;07/09/2026;1;22/10/2026;oui;"01/07/26 : Point fait avec Camille, rapport en cours de rédaction.
+21/07/26 : Voir avec Thomas, résultats transmis.
+02/08/26 : Envoyé à Emma, pièces réceptionnées.
+20/08/26 : Validé par Emma, problème identifié, solution à définir.
+05/09/26 : Point fait avec Claire, plan mis à jour.
+16/09/26 : Relancer Inès, commande passée.
+22/10/26 : Terminé, validé.";23/06/2026;100%
+19;Groupe motopropulseur;Intégration batterie haute tension;Hugo;;20/11/2026;2;;;"23/08/26 : Point fait avec Claire, réunion programmée.
+29/08/26 : Échange avec Nicolas, décalage d'une semaine annoncé.
+10/09/26 : Envoyé à Camille, commande passée.
+16/09/26 : Validé par Maxime, devis reçu.";14/08/2026;95%
+20;Groupe motopropulseur;Calibration moteur;Maxime/Sophie;V2;25/07/2026;2;;oui;"16/06/26 : Relancer Camille, problème identifié, solution à définir.
+01/07/26 : Point fait avec Emma, pièces réceptionnées.
+18/07/26 : Attente retour de Emma, commande passée.
+25/07/26 : Terminé, validé.";11/06/2026;100%
+21;Groupe motopropulseur;Refroidissement de la batterie;Inès;;16/11/2026;2;;oui;"24/09/26 : Validé par Inès, prototype en cours.
+05/10/26 : Attente retour de Léa, prototype en cours.
+16/11/26 : Terminé, validé.";15/09/2026;100%
+22;Groupe motopropulseur;Essais de consommation;Nicolas;V2;13/11/2026;1;27/11/2026;;"09/10/26 : Voir avec Julien, plan mis à jour.
+29/10/26 : Point fait avec Camille, réunion programmée.
+08/11/26 : Échange avec Emma, pièces réceptionnées.";04/10/2026;90%
+23;Groupe motopropulseur;Validation du réducteur;Maxime;V2;06/02/2027;3;08/03/2027;;;18/12/2026;10%
+24;Groupe motopropulseur;Faisceau haute tension;Emma/Antoine;;22/01/2027;2;12/02/2027;;;19/12/2026;5%
+25;Groupe motopropulseur;Gestion thermique;Inès;V1;31/05/2026;2;14/06/2026;;"10/05/26 : Envoyé à Julien, plan mis à jour.
+29/05/26 : Envoyé à Inès, problème identifié, solution à définir.
+06/06/26 : Relancer Hugo, devis reçu.
+14/06/26 : Attente retour de Nicolas, rapport en cours de rédaction.";06/05/2026;95%
+26;Groupe motopropulseur;Homologation des émissions;Antoine;;18/02/2027;2;;;;09/12/2026;0%
+27;Groupe motopropulseur;Essais de charge rapide;Antoine;;28/11/2026;3;;;"12/10/26 : Échange avec Inès, problème identifié, solution à définir.
+22/10/26 : Relancer Léa, résultats transmis.
+03/11/26 : Échange avec Nicolas, plan mis à jour.
+15/11/26 : Voir avec Thomas, devis reçu.";02/10/2026;70%
+28;Électronique;Architecture des calculateurs;Thomas;V2;27/02/2027;2;;;;24/11/2026;0%
+29;Électronique;Faisceau électrique habitacle;Emma;V1;15/12/2026;3;;;"03/10/26 : Voir avec Camille, rapport en cours de rédaction.
+24/10/26 : Envoyé à Antoine, essai réalisé, résultats corrects.
+31/10/26 : Point fait avec Claire, commande passée.
+08/11/26 : Point fait avec Sophie, résultats transmis.";23/09/2026;70%
+30;Électronique;Validation du logiciel embarqué;Maxime;V1;19/11/2026;2;03/12/2026;;"22/08/26 : Envoyé à Thomas, pièces réceptionnées.
+30/08/26 : Voir avec Léa, rapport en cours de rédaction.
+17/09/26 : Point fait avec Nicolas, réunion programmée.
+02/10/26 : Voir avec Maxime, pièces commandées.
+21/10/26 : Envoyé à Sophie, essai réalisé, résultats corrects.";17/08/2026;95%
+31;Électronique;Tests CEM;Maxime/Julien;V2;23/07/2026;1;;oui;"29/06/26 : Validé par Antoine, réunion programmée.
+10/07/26 : Voir avec Antoine, pièces réceptionnées.
+28/07/26 : Attente retour de Inès, prototype en cours.
+23/07/26 : Terminé, validé.";25/06/2026;100%
+32;Électronique;Écran multimédia;Maxime;;11/10/2026;1;;;"08/07/26 : Envoyé à Julien, résultats transmis.
+21/07/26 : Relancer Julien, décalage d'une semaine annoncé.
+11/08/26 : Point fait avec Emma, problème identifié, solution à définir.
+26/08/26 : Validé par Léa, décalage d'une semaine annoncé.
+10/09/26 : Échange avec Thomas, rapport en cours de rédaction.";06/07/2026;85%
+33;Électronique;Aides à la conduite;Léa;V2 / série spéciale;15/10/2026;2;29/11/2026;;"Action prioritaire pour le client.
+30/08/26 : Voir avec Emma, essai réalisé, résultats corrects.";27/08/2026;60%
+34;Électronique;Mise à jour à distance;Nicolas;V1;13/12/2026;2;;;"02/10/26 : Envoyé à Camille, réunion programmée.
+15/10/26 : Échange avec Antoine, plan mis à jour.";22/09/2026;70%
+35;Électronique;Diagnostic embarqué;Julien;;30/01/2027;3;;;25/10/26 : Voir avec Sophie, pièces commandées.;20/10/2026;35%
+36;Électronique;Tests de cybersécurité;Inès;V1;03/09/2026;2;;oui;"22/06/26 : Attente retour de Camille, commande passée.
+02/07/26 : Attente retour de Hugo, réunion programmée.
+19/07/26 : Échange avec Nicolas, essai réalisé, résultats corrects.
+25/07/26 : Voir avec Emma, décalage d'une semaine annoncé.
+11/08/26 : Validé par Nicolas, réunion programmée.
+23/08/26 : Voir avec Claire, pièces réceptionnées.
+03/09/26 : Terminé, validé.";13/06/2026;100%
+37;Intérieur;Planche de bord;Julien/Camille;V1;16/02/2027;2;;;;24/11/2026;0%
+38;Intérieur;Sièges avant;Maxime;V1;11/10/2026;3;;oui;"22/07/26 : Point fait avec Sophie, commande passée.
+05/08/26 : Voir avec Thomas, commande passée.
+14/08/26 : Relancer Camille, rapport en cours de rédaction.
+26/08/26 : Relancer Nicolas, prototype en cours.
+01/09/26 : Envoyé à Antoine, plan mis à jour.
+11/10/26 : Terminé, validé.";16/07/2026;100%
+39;Intérieur;Garnitures de portes;Julien/Thomas;V2 / série spéciale;08/11/2026;1;;;"05/09/26 : Attente retour de Hugo, décalage d'une semaine annoncé.
+12/09/26 : Attente retour de Camille, problème identifié, solution à définir.
+02/10/26 : Envoyé à Claire, réunion programmée.
+14/10/26 : Point fait avec Camille, commande passée.
+28/10/26 : Relancer Léa, résultats transmis.
+13/11/26 : Voir avec Emma, prototype en cours.";30/08/2026;95%
+40;Intérieur;Climatisation habitacle;Hugo;V2;28/12/2026;2;;;;21/11/2026;0%
+41;Intérieur;Éclairage d'ambiance;Julien;;07/09/2026;1;;;"14/08/26 : Envoyé à Emma, réunion programmée.
+24/08/26 : Validé par Antoine, réunion programmée.";06/08/2026;95%
+42;Intérieur;Choix des matériaux intérieurs;Antoine;V2;28/11/2026;1;;;02/10/26 : Validé par Antoine, résultats transmis.;27/09/2026;85%
+43;Intérieur;Essais d'odeur et d'émissions;Léa;V1;15/09/2026;3;30/10/2026;;"31/07/26 : Envoyé à Camille, commande passée.
+11/08/26 : Échange avec Emma, problème identifié, solution à définir.
+31/08/26 : Attente retour de Léa, plan mis à jour.";23/07/2026;95%
+44;Intérieur;Ergonomie du poste de conduite;Léa;V2 / série spéciale;15/11/2026;1;29/11/2026;;"13/09/26 : Validé par Sophie, prototype en cours.
+03/10/26 : Attente retour de Hugo, problème identifié, solution à définir.
+10/10/26 : Point fait avec Nicolas, problème identifié, solution à définir.
+24/10/26 : Voir avec Claire, rapport en cours de rédaction.
+30/10/26 : Envoyé à Emma, commande passée.
+12/11/26 : Attente retour de Julien, devis reçu.";08/09/2026;60%
+45;Essais;Essais de crash frontal;Sophie;V2 / série spéciale;18/12/2026;2;;;"13/10/26 : Attente retour de Léa, décalage d'une semaine annoncé.
+26/10/26 : Validé par Maxime, pièces réceptionnées.";04/10/2026;65%
+46;Essais;Essais climatiques;Inès;V2;09/02/2027;1;02/03/2027;;"Action prioritaire pour le client.
+05/11/26 : Voir avec Emma, prototype en cours.";29/10/2026;30%
+47;Essais;Roulage d'endurance;Inès;V2;30/10/2026;1;;;"30/09/26 : Relancer Léa, commande passée.
+16/10/26 : Point fait avec Maxime, problème identifié, solution à définir.
+31/10/26 : Attente retour de Léa, rapport en cours de rédaction.";25/09/2026;95%
+48;Essais;Essais de corrosion;Léa;V2 / série spéciale;21/08/2026;1;;oui;"13/05/26 : Point fait avec Léa, réunion programmée.
+28/05/26 : Point fait avec Inès, essai réalisé, résultats corrects.
+09/06/26 : Échange avec Hugo, pièces réceptionnées.
+15/06/26 : Voir avec Camille, décalage d'une semaine annoncé.
+21/08/26 : Terminé, validé.";05/05/2026;100%
+49;Essais;Essais acoustiques;Hugo;V2 / série spéciale;03/02/2027;1;;;;20/12/2026;0%
+50;Essais;Rapport de synthèse des essais;Sophie;V1;16/12/2026;2;15/01/2027;;"01/11/26 : Relancer Sophie, résultats transmis.
+08/11/26 : Voir avec Julien, pièces réceptionnées.
+15/11/26 : Voir avec Antoine, devis reçu.";27/10/2026;35%
+51;Essais;Essais en soufflerie;Maxime;V2 / série spéciale;16/03/2027;2;;;;20/12/2026;0%
+52;Essais;Essais de vibrations;Thomas/Claire;V2 / série spéciale;25/12/2026;2;;;"28/10/26 : Envoyé à Claire, problème identifié, solution à définir.
+14/11/26 : Envoyé à Antoine, décalage d'une semaine annoncé.";18/10/2026;20%
+53;Industrialisation;Gamme de montage;Léa/Claire;V1;30/12/2026;1;06/01/2027;;;27/11/2026;0%
+54;Industrialisation;Implantation de la ligne;Antoine;V1;19/09/2026;1;;;"02/08/26 : Échange avec Maxime, pièces réceptionnées.
+11/08/26 : Envoyé à Nicolas, réunion programmée.
+30/08/26 : Échange avec Antoine, essai réalisé, résultats corrects.
+17/09/26 : Validé par Antoine, prototype en cours.";24/07/2026;85%
+55;Industrialisation;Outillage de soudure;Sophie/Camille;;28/02/2027;1;;;18/11/26 : Échange avec Camille, réunion programmée.;10/11/2026;15%
+56;Industrialisation;Formation des opérateurs;Julien;V2 / série spéciale;10/08/2026;2;31/08/2026;;"31/05/26 : Relancer Camille, résultats transmis.
+16/06/26 : Point fait avec Hugo, commande passée.
+22/06/26 : Voir avec Inès, pièces réceptionnées.
+10/07/26 : Relancer Antoine, décalage d'une semaine annoncé.";21/05/2026;95%
+57;Industrialisation;Temps standards;Emma;;23/08/2026;2;;oui;"15/06/26 : Validé par Emma, pièces réceptionnées.
+27/06/26 : Point fait avec Nicolas, rapport en cours de rédaction.
+23/08/26 : Terminé, validé.";07/06/2026;100%
+58;Industrialisation;Robots de peinture;Hugo;;27/10/2026;3;;;"22/09/26 : Échange avec Camille, rapport en cours de rédaction.
+28/09/26 : Validé par Antoine, pièces commandées.";16/09/2026;95%
+59;Industrialisation;Postes de contrôle final;Julien;;28/12/2026;2;11/02/2027;;"29/10/26 : Attente retour de Thomas, décalage d'une semaine annoncé.
+17/11/26 : Échange avec Julien, pièces réceptionnées.";27/10/2026;25%
+60;Industrialisation;Plan de surveillance;Inès;;09/07/2026;3;;oui;"17/05/26 : Validé par Julien, résultats transmis.
+30/05/26 : Validé par Julien, commande passée.
+07/06/26 : Échange avec Julien, décalage d'une semaine annoncé.
+18/06/26 : Attente retour de Sophie, problème identifié, solution à définir.
+09/07/26 : Terminé, validé.";09/05/2026;100%
+61;Industrialisation;Présérie;Thomas;V2 / série spéciale;03/09/2026;2;;oui;"23/05/26 : Échange avec Léa, commande passée.
+01/06/26 : Point fait avec Emma, commande passée.
+10/06/26 : Relancer Inès, commande passée.
+21/06/26 : Relancer Thomas, plan mis à jour.
+03/09/26 : Terminé, validé.";18/05/2026;100%
+62;Qualité;AMDEC produit;Emma/Antoine;;02/06/2026;1;;;"08/05/26 : Attente retour de Nicolas, commande passée.
+22/05/26 : Envoyé à Antoine, devis reçu.
+09/06/26 : Point fait avec Julien, décalage d'une semaine annoncé.";04/05/2026;95%
+63;Qualité;AMDEC process;Léa;V1;15/12/2026;1;;oui;"07/11/26 : Point fait avec Thomas, essai réalisé, résultats corrects.
+20/11/26 : Terminé, validé.";04/11/2026;100%
+64;Qualité;Plan de contrôle;Sophie/Nicolas;;01/11/2026;2;;oui;"12/10/26 : Attente retour de Emma, rapport en cours de rédaction.
+30/10/26 : Point fait avec Nicolas, décalage d'une semaine annoncé.
+01/11/26 : Terminé, validé.";08/10/2026;100%
+65;Qualité;Audit fournisseur;Claire;;08/11/2026;2;;oui;"12/09/26 : Relancer Claire, rapport en cours de rédaction.
+28/09/26 : Échange avec Sophie, prototype en cours.
+12/10/26 : Attente retour de Inès, problème identifié, solution à définir.
+08/11/26 : Terminé, validé.";02/09/2026;100%
+66;Qualité;Traitement des non-conformités;Claire/Nicolas;V2;17/07/2026;3;;oui;"30/06/26 : Point fait avec Léa, essai réalisé, résultats corrects.
+17/07/26 : Terminé, validé.";22/06/2026;100%
+67;Qualité;Validation PPAP;Léa;V1;10/08/2026;1;;;12/06/26 : Voir avec Antoine, essai réalisé, résultats corrects.;02/06/2026;95%
+68;Qualité;Indicateurs qualité;Julien;V2;26/06/2026;2;10/08/2026;;"11/06/26 : Validé par Julien, essai réalisé, résultats corrects.
+25/06/26 : Envoyé à Emma, réunion programmée.";02/06/2026;85%
+69;Qualité;Contrôle réception pièces;Maxime/Antoine;V2;11/02/2027;2;;;"04/11/26 : Échange avec Camille, rapport en cours de rédaction.
+15/11/26 : Envoyé à Antoine, problème identifié, solution à définir.";25/10/2026;35%
+70;Achats;Consultation fournisseurs pièces de fonderie;Claire;V1;13/11/2026;3;;oui;"24/08/26 : Point fait avec Inès, décalage d'une semaine annoncé.
+30/08/26 : Point fait avec Sophie, plan mis à jour.
+09/09/26 : Voir avec Léa, prototype en cours.
+16/09/26 : Échange avec Camille, commande passée.
+26/09/26 : Voir avec Emma, décalage d'une semaine annoncé.
+17/10/26 : Point fait avec Antoine, rapport en cours de rédaction.
+13/11/26 : Terminé, validé.";17/08/2026;100%
+71;Achats;Négociation prix des sièges;Claire;;04/01/2027;2;;;;14/12/2026;0%
+72;Achats;Contrat cadre pneumatiques;Emma;;07/09/2026;2;;;"Action prioritaire pour le client.
+05/06/26 : Échange avec Antoine, problème identifié, solution à définir.
+12/06/26 : Échange avec Thomas, rapport en cours de rédaction.
+30/06/26 : Validé par Léa, pièces commandées.
+12/07/26 : Point fait avec Maxime, décalage d'une semaine annoncé.
+31/07/26 : Envoyé à Julien, devis reçu.";31/05/2026;85%
+73;Achats;Second fournisseur électronique;Antoine/Sophie;V2;08/07/2026;3;;;"17/05/26 : Relancer Léa, problème identifié, solution à définir.
+05/06/26 : Validé par Léa, pièces commandées.
+11/06/26 : Validé par Claire, résultats transmis.
+28/06/26 : Relancer Antoine, pièces commandées.
+06/07/26 : Échange avec Julien, pièces commandées.
+18/07/26 : Envoyé à Antoine, essai réalisé, résultats corrects.";08/05/2026;95%
+74;Achats;Suivi des délais fournisseurs;Thomas;;17/03/2027;3;;;;16/12/2026;0%
+75;Achats;Stock de sécurité;Nicolas;V1;30/12/2026;2;13/02/2027;;"27/10/26 : Relancer Thomas, pièces réceptionnées.
+17/11/26 : Envoyé à Julien, pièces réceptionnées.";17/10/2026;15%
+76;Achats;Évaluation fournisseurs;Claire;V2;09/09/2026;2;;oui;"16/06/26 : Relancer Hugo, problème identifié, solution à définir.
+26/06/26 : Point fait avec Thomas, problème identifié, solution à définir.
+16/07/26 : Relancer Thomas, rapport en cours de rédaction.
+23/07/26 : Attente retour de Inès, pièces réceptionnées.
+06/08/26 : Envoyé à Hugo, résultats transmis.
+09/09/26 : Terminé, validé.";09/06/2026;100%
+77;Achats;Nomination fournisseur faisceaux;Antoine/Sophie;;26/08/2026;2;;oui;"Action prioritaire pour le client.
+01/06/26 : Attente retour de Léa, devis reçu.
+08/06/26 : Relancer Léa, plan mis à jour.
+22/06/26 : Échange avec Thomas, devis reçu.
+26/08/26 : Terminé, validé.";26/05/2026;100%
+78;Logistique;Flux d'approvisionnement ligne;Camille;V1;21/08/2026;2;;oui;"13/07/26 : Relancer Sophie, rapport en cours de rédaction.
+25/07/26 : Voir avec Sophie, commande passée.
+06/08/26 : Échange avec Léa, plan mis à jour.
+21/08/26 : Terminé, validé.";11/07/2026;100%
+79;Logistique;Emballages fournisseurs;Thomas;V1;01/09/2026;3;08/09/2026;oui;"25/08/26 : Échange avec Hugo, rapport en cours de rédaction.
+31/08/26 : Validé par Sophie, plan mis à jour.
+12/09/26 : Voir avec Maxime, pièces commandées.
+08/09/26 : Terminé, validé.";18/08/2026;100%
+80;Logistique;Transport des véhicules;Camille/Julien;;16/07/2026;3;;;"10/05/26 : Échange avec Claire, décalage d'une semaine annoncé.
+25/05/26 : Validé par Sophie, résultats transmis.
+05/06/26 : Voir avec Emma, problème identifié, solution à définir.
+18/06/26 : Attente retour de Antoine, essai réalisé, résultats corrects.
+01/07/26 : Attente retour de Emma, plan mis à jour.
+09/07/26 : Validé par Antoine, pièces commandées.";05/05/2026;95%
+81;Logistique;Gestion des stocks bord de ligne;Emma;;30/03/2027;1;;;;14/12/2026;0%
+82;Logistique;Étiquetage des pièces;Claire;;27/06/2026;1;;oui;"04/06/26 : Échange avec Antoine, prototype en cours.
+27/06/26 : Terminé, validé.";25/05/2026;100%
+83;Logistique;Suivi des retours;Claire;V2;11/08/2026;1;;oui;"23/06/26 : Relancer Antoine, commande passée.
+29/06/26 : Attente retour de Camille, décalage d'une semaine annoncé.
+16/07/26 : Envoyé à Nicolas, problème identifié, solution à définir.
+11/08/26 : Terminé, validé.";16/06/2026;100%
+84;Logistique;Emballages retournables;Nicolas;;09/11/2026;2;24/12/2026;;"Action prioritaire pour le client.
+21/08/26 : Relancer Antoine, prototype en cours.";15/08/2026;80%
+85;Homologation;Dossier de réception européenne;Sophie/Julien;V2 / série spéciale;18/08/2026;1;;oui;"25/07/26 : Point fait avec Inès, pièces commandées.
+05/08/26 : Point fait avec Maxime, commande passée.
+26/08/26 : Envoyé à Hugo, plan mis à jour.
+18/08/26 : Terminé, validé.";19/07/2026;100%
+86;Homologation;Analyse de risques;Nicolas/Inès;;27/07/2026;3;10/08/2026;oui;"13/06/26 : Échange avec Julien, essai réalisé, résultats corrects.
+20/06/26 : Voir avec Sophie, commande passée.
+30/06/26 : Envoyé à Julien, problème identifié, solution à définir.
+08/07/26 : Validé par Julien, problème identifié, solution à définir.
+10/08/26 : Terminé, validé.";03/06/2026;100%
+87;Homologation;Essais de bruit extérieur;Thomas;V1;17/08/2026;3;24/08/2026;oui;"22/07/26 : Échange avec Inès, commande passée.
+01/08/26 : Échange avec Emma, pièces commandées.
+15/08/26 : Relancer Léa, pièces commandées.
+29/08/26 : Voir avec Nicolas, pièces commandées.
+24/08/26 : Terminé, validé.";15/07/2026;100%
+88;Homologation;Conformité éclairage;Thomas/Léa;;01/09/2026;3;22/09/2026;oui;"28/07/26 : Relancer Julien, réunion programmée.
+16/08/26 : Attente retour de Sophie, pièces commandées.
+22/09/26 : Terminé, validé.";20/07/2026;100%
+89;Homologation;Veille réglementaire;Maxime/Antoine;V2 / série spéciale;12/01/2027;2;;;"20/10/26 : Point fait avec Thomas, essai réalisé, résultats corrects.
+27/10/26 : Échange avec Léa, problème identifié, solution à définir.
+10/11/26 : Validé par Claire, décalage d'une semaine annoncé.
+19/11/26 : Voir avec Camille, prototype en cours.";13/10/2026;45%
+90;Homologation;Déclaration de conformité;Antoine;;22/02/2027;2;;;;13/12/2026;0%
+91;Homologation;Fiche de sécurité secours;Hugo;;27/11/2026;3;;;"12/10/26 : Échange avec Julien, décalage d'une semaine annoncé.
+29/10/26 : Validé par Julien, plan mis à jour.";05/10/2026;55%
+92;Commercial;Fiche produit;Julien;V1;30/12/2026;1;06/01/2027;;"10/10/26 : Validé par Maxime, devis reçu.
+26/10/26 : Échange avec Léa, pièces commandées.
+07/11/26 : Voir avec Julien, pièces réceptionnées.
+14/11/26 : Relancer Sophie, devis reçu.";07/10/2026;50%
+93;Commercial;Présentation au réseau;Antoine;;11/01/2027;3;;;"08/10/26 : Attente retour de Nicolas, prototype en cours.
+26/10/26 : Validé par Léa, résultats transmis.
+16/11/26 : Validé par Julien, prototype en cours.";05/10/2026;45%
+94;Commercial;Photos presse;Antoine/Camille;V1;03/08/2026;1;;oui;"23/05/26 : Envoyé à Nicolas, résultats transmis.
+11/06/26 : Échange avec Antoine, devis reçu.
+22/06/26 : Validé par Camille, prototype en cours.
+03/08/26 : Terminé, validé.";13/05/2026;100%
+95;Commercial;Configurateur en ligne;Sophie/Claire;V2;25/01/2027;1;;;;28/11/2026;10%
+96;Commercial;Formation des vendeurs;Inès;V2;17/03/2027;2;;;;20/12/2026;0%
+97;Commercial;Lancement presse;Maxime;;21/12/2026;3;;;"18/09/26 : Validé par Léa, essai réalisé, résultats corrects.
+04/10/26 : Point fait avec Antoine, prototype en cours.
+21/10/26 : Validé par Sophie, décalage d'une semaine annoncé.
+09/11/26 : Relancer Emma, devis reçu.
+18/11/26 : Validé par Nicolas, plan mis à jour.";15/09/2026;40%
+98;Commercial;Retour des clients essais;Maxime/Hugo;;20/12/2026;2;;;25/10/26 : Relancer Thomas, problème identifié, solution à définir.;21/10/2026;50%
+99;Commercial;Essais presse;Inès;V2 / série spéciale;06/11/2026;1;;oui;"Action prioritaire pour le client.
+26/09/26 : Point fait avec Claire, plan mis à jour.
+05/10/26 : Point fait avec Sophie, décalage d'une semaine annoncé.
+25/10/26 : Échange avec Inès, rapport en cours de rédaction.
+06/11/26 : Relancer Julien, problème identifié, solution à définir.
+06/11/26 : Terminé, validé.";22/09/2026;100%
+100;Commercial;Brochure commerciale;Antoine;V2;19/02/2027;3;;;;30/11/2026;0%
